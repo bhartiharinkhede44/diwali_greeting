@@ -1,0 +1,22 @@
+.card{
+    background-color: aliceblue;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1) ;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    position: relative;
+    
+}
+.g-text{
+    font-size: 30px;
+    
+}
+.from-text{
+    position: absolute;
+    right:10px;
+    bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.to-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
